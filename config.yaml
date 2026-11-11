@@ -1,0 +1,3 @@
+app_name: devops-git-lab
+environment: development
+version: 1.0
