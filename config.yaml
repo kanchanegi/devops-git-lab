@@ -1,6 +1,8 @@
 app_name: devops-git-lab
-environment: feature-a-dev
+environment: development
 version: 1.0
 features:
   - feature-a
   - feature-b
+feature_a_environment: feature-a-dev
+feature_b_environment: feature-b-dev
